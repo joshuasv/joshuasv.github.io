@@ -22,6 +22,7 @@ google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
+minimal_mistakes_skin: "dirt"
 plugins:
   - jekyll-feed
   - jekyll-gist
