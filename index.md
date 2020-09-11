@@ -1,6 +1,6 @@
 # Bio
 
- I'm currently studying computer engineering at University of Vigo. Interested in software engineering,deep learning and Bitcoin. In that orther.
+ I'm currently studying computer engineering at University of Vigo. Just letting curiosity take control.
  
  Here I'll try to post all my personal projects and record the progress.
  
