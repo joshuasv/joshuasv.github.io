@@ -1,3 +1,4 @@
+![logo](images/logo.png)
 # Bio
 
  I'm currently studying computer engineering at University of Vigo. Interested in software engineering,deep learning, datascience and B. In that orther.
