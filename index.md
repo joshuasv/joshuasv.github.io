@@ -1,7 +1,9 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Bio
 
-![Image of fast.ai logo](images/logo.png)
+ I'm currently studying computer engineering at University of Vigo. Interested in software engineering,deep learning, datascience and B. In that orther.
+ 
+ Here I'll try to post all my personal projects and force myself to write good documentation so they're well documented.
 
-## This is a title
+## Latest posts
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+[Post 1 example - Will this post ever be made?]()
