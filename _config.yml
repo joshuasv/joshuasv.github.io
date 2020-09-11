@@ -11,8 +11,8 @@ description: Here I'll try to post all my personal projects and force myself to 
 github_username: joshuasv
 
 # Email and twitter are optional:
-email: jsvieira2@esei.uvigo.es
-twitter_username: @0x04ASV
+email:
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math: true
